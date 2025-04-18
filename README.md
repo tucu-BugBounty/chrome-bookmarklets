@@ -38,7 +38,7 @@ javascript:(function(){var urls=[];document.querySelectorAll('*').forEach(elemen
 
 To use these bookmarklets:
 
-*.Create a new bookmark in Chrome.
-*.Copy the code above into the URL field.
-*.Save the bookmark and click it while on a webpage to run the script.
+* Create a new bookmark in Chrome.
+* Copy the code above into the URL field.
+* Save the bookmark and click it while on a webpage to run the script.
 
